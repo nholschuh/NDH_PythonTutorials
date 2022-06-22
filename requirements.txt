@@ -3,6 +3,3 @@ numpy
 pandas
 xarray
 rioxarray
-glob
-IPython.display
-
